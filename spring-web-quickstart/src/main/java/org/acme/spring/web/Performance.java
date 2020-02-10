@@ -1,10 +1,10 @@
 package org.acme.spring.web;
 
-public class Greeting {
+public class Performance {
 
     private final String message;
 
-    public Greeting(String message) {
+    public Performance(String message) {
         this.message = message;
     }
 
